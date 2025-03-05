@@ -108,7 +108,7 @@ plt.plot(x)
 - The Kalman Filter effectively reduces noise and provides a **smoothed estimate** of the true range.
 - The filter adapts over time and converges to the actual value.
 
-![graph](bottle.PNG)
+![graph](output.png)
 
 
 ## Applications
