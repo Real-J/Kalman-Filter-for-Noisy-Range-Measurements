@@ -31,8 +31,8 @@ pip install jupyter
 ## Running the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kalman-filter-range.git
-   cd kalman-filter-range
+   git clone https://github.com/Real J/Kalman-Filter-for-Noisy-Range-Measurements.git
+   cd Kalman-Filter-for-Noisy-Range-Measurements
    ```
 2. Open Jupyter Notebook:
    ```bash
